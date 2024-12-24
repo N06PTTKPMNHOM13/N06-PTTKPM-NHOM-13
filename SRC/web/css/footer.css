@@ -1,0 +1,19 @@
+footer a {
+    color: #50222b;
+    text-decoration: none;
+    transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+footer a:hover,
+footer a:focus {
+    color: #7f2c3e;
+    text-decoration: underline;
+}
+
+footer a:active {
+    color: #3e1a22;
+}
+
+footer a:visited {
+    color: #6b1e2d;
+}
