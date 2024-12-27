@@ -25,10 +25,8 @@ Dự án trang web bán ô tô là một nền tảng trực tuyến cho phép n
    - Tích hợp các phương thức thanh toán an toàn và tiện lợi.
 
 ## Công nghệ sử dụng
-- **Ngôn ngữ phát triển:** HTML, CSS, JavaScript, Python.
-- **Framework:** Django (backend), ReactJS (frontend).
-- **Cơ sở dữ liệu:** PostgreSQL.
-- **Công nghệ khác:** AWS (lưu trữ và deployment).
+- **Ngôn ngữ phát triển:** HTML, CSS, JavaScript, Java.
+- **Cơ sở dữ liệu:** SQL.
 
 ## Đối tượng sử dụng
 - Cá nhân tìm kiếm để mua xe.
